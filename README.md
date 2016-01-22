@@ -23,7 +23,7 @@ cd [NAME OF FILE]
 
 Example:
 ```shell
-  cd Documents/More\ Files/
+cd Documents/More\ Files/
 ```
 
 * If you have spaces in your file names, use a backslash before each space
@@ -32,7 +32,7 @@ Example:
 
 ##### To list all of the items in a folder:
 ```shell
-  ls
+ls
 ```
 
 ### Git Commands We Have Learned Today
@@ -40,12 +40,12 @@ Example:
 ##### What is the version?
 
 ```shell
-  git --version
+git --version
 ```
 
 ###### Clone from an online repo:
 ```shell
-  git clone [url.git]
+git clone [url.git]
 ```
 
 So, if I were to clone the [jQuery repo](https://github.com/jquery/jquery), I would go on their Github and copy the git link to their repository (https://github.com/jquery/jquery.git).
@@ -84,5 +84,17 @@ This is committing! You have now put a flag in the ground to let git know that t
 git push origin master
 ```
 
+##### To create a ```gh-pages``` branch (or any branch)
 
+```shell
+git checkout -b [NAME OF BRANCH]
+```
+The -b lets git know that you're creating a new branch. If you would like to create a GitHub page, name your branch gh-pages.
 
+Now that you've created a new branch, you can do your adding and committing in that branch, too.
+To make sure your remote repo is synced up with your current branch:
+
+```shell
+git push origin [NAME OF YOUR BRANCH]
+```
+So if I have a branch named gh-pages, I would go ```git push origin gh-pages```.
