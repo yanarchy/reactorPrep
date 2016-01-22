@@ -17,14 +17,14 @@ For me, it shows up as ```yfan$```
 ##### To  navigate through folders:
 
 
-'''
+```shell
 cd [NAME OF FILE]
-'''
+```
 
 Example:
-'''shell
+```shell
   cd Documents/More\ Files/
-'''
+```
 
 * If you have spaces in your file names, use a backslash before each space
 * To go back one level (one folder): ```cd ..```
