@@ -16,8 +16,9 @@ For me, it shows up as ```yfan$```
 
 ##### To  navigate through folders:
 
-'''shell
-  cd [NAME OF FILE]
+
+'''
+cd [NAME OF FILE]
 '''
 
 Example:
@@ -69,6 +70,8 @@ The . means all the files
 ```shell
 git commit -m "[MESSAGE IN HERE]"
 ```
+
+The ```-m``` is what we call a "flag". It's telling git that we want to attach a "commit message".
 
 ##### Making sure your remote repo on GitHub is up to date
 
