@@ -15,9 +15,11 @@ For me, it shows up as ```yfan$```
 ### Terminal Commands We Have Learned Today
 
 ##### To  navigate through folders:
+
 '''shell
   cd [NAME OF FILE]
 '''
+
 Example:
 '''shell
   cd Documents/More\ Files/
