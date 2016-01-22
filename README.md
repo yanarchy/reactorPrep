@@ -1,5 +1,10 @@
 # reactorPrep
 
+WRITING A BUNCH OF THINGS FOR THIS EXAMPLE
+AYAYAYAY
+YAYAYAYYAA
+YAYAYAYA
+
 ## About
 Hi Class! These are instructions for the shell/Terminal comands we went over in class today.
 
