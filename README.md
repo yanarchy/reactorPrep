@@ -106,4 +106,4 @@ Here are a bunch of good links and tutorials:
 * [Udemy's Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/) - This is pretty dry. It reads like an encyclopedia. I would use this as a reference if you're not satisfied with explanations given by these other links. Will require focused reading though. Boo.
 * [Git Immersion](http://gitimmersion.com/) - Going through this was a mandatory part of my Hack Reactor pre-course work. It can be a bit frustrating.
 * [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/) - This is like the opposite of Udemy's tutorial. Big letters, quick summaries. However, doesn't dive deep into details.
-
+* [Git Documentation](https://git-scm.com/documentation) - Or else, if all fails, you can read this very dull documentation.
