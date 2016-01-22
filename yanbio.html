@@ -1,0 +1,68 @@
+<!doctype html>
+<html>
+  <head></head>
+  <body>
+<style>
+      img {
+        width: 300px;
+        height: 300px;
+      }
+
+      #heading {
+        text-align: center;
+      }
+
+      #about {
+        text-align: center;
+        float: left;
+        width: 300px;
+      }
+
+      li {
+        list-style-type: none;
+      }
+
+      #images {
+        float: right;
+        width: 300px;
+      }
+</style>
+    <h1>For tomorrow...</h1>
+    <ul>
+      <li>Have bio page ready for some styling</li>
+      <li>Get ready for one minute presentations</li>
+      <li>Have a GitHub account!</li>
+      <li>
+        Download <a href="https://git-scm.com/downloads">Git</a>
+      </li>
+    </ul>
+    <h3>The butts!</h3>
+    <img src="images/corgibutt1.jpg"/>
+    <img src="images/corgibutt2.jpg"/>
+    <img src="images/corgibutt3.jpg"/>
+    <img src="images/corgibutt3.jpg"/>
+    <img src="images/corgibutt3.jpg"/>
+  <script>
+    var butts = document.getElementsByTagName('img');
+    for (var i = 0; i < butts.length; i++) {
+      butts[i].style.height = "300px";
+    }
+    // var last = function (arr) {
+    //   return arr[arr.length - 1];
+    // }
+
+    // var listItemElements = document.getElementsByTagName('li');
+
+    // var p = document.createElement("p");
+    // var userName = prompt('What is your name?');
+    // if (userName.length > 2) {
+    //   p.textContent = "Hello " + userName;
+    // } else {
+    //   p.textContent = "Hello stranger";
+    // }
+    
+    // document.body.appendChild(p);
+    
+  </script>
+  </body>
+</html>
