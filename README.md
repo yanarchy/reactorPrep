@@ -98,3 +98,12 @@ To make sure your remote repo is synced up with your current branch:
 git push origin [NAME OF YOUR BRANCH]
 ```
 So if I have a branch named gh-pages, I would go ```git push origin gh-pages```.
+
+### OMG I want to know more!!!! Git is awesome!!!!
+Here are a bunch of good links and tutorials:
+
+* [CodeSchool's Git Tutorial](https://try.github.io/levels/1/challenges/1) - I haven't used this so I can't tell you much about it except that it's popular. There may be a paywall at some point.
+* [Udemy's Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/) - This is pretty dry. It reads like an encyclopedia. I would use this as a reference if you're not satisfied with explanations given by these other links. Will require focused reading though. Boo.
+* [Git Immersion](http://gitimmersion.com/) - Going through this was a mandatory part of my Hack Reactor pre-course work. It can be a bit frustrating.
+* [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/) - This is like the opposite of Udemy's tutorial. Big letters, quick summaries. However, doesn't dive deep into details.
+
