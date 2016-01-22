@@ -51,6 +51,8 @@ Example:
 So, if I were to clone the [jQuery repo](https://github.com/jquery/jquery), I would go on their Github and copy the git link to their repository (https://github.com/jquery/jquery.git).
 And then I would do: ```git clone https://github.com/jquery/jquery.git```
 
+And congrats! You'll have made a local repo on your machine. We refer to the repo that we have on our computer as 'local' and the corresponding repo online (usually on GitHub) as 'remote'.
+
 ##### Checking Status
 ```shell
 git status
@@ -62,16 +64,19 @@ Committing is like putting a flag or marker down on the coding road you are ridi
 It will allow you to 'return' to the state of your files at that point in time (if you want).
 Later on, instead of doing undo (ctrl-z) a billion times, it will be easier for you to just turn back the clocks using git and go to a marker where your code was a-okay.
 
+After saving your files...
+
 ```shell
 git add .
 ```
-The . means all the files
+The . means all the files. git add-ing is like getting engaged. You haven't fully committed yet but you're pretty darn sure.
 
 ```shell
 git commit -m "[MESSAGE IN HERE]"
 ```
 
 The ```-m``` is what we call a "flag". It's telling git that we want to attach a "commit message".
+This is committing! You have now put a flag in the ground to let git know that this was a somewhat notable marker in your work so far.
 
 ##### Making sure your remote repo on GitHub is up to date
 
