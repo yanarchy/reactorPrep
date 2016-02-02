@@ -104,6 +104,13 @@
 - What's the global document object? Global window object?
 - What is the global Math object? How do you use it? What're some of the methods?
 
+
+
+<--- BELOW THIS ARE TOPICS THAT WILL NOT BE ON THE INTERVIEW --->
+...but you'll need to know them later on
+
+
+
 ############################
 //      HTML/CSS          //
 ############################
@@ -121,30 +128,36 @@
 //  MORE ADVANCED THINGS  //
 ############################
 
-* learn jQuery
-* reimplement more underscore
-  - all methods under Collections
-  - all methods in Arrays
-  - .keys (objects)
-  - .values (objects)
-  - .pairs (objects)
-  - .invert (objects)
-  - .findKey (objects)
-  - .pick (objects)
-  - .mapObject (objects)
-* implement the game Snake, 2048, or a card game
-* rewrite/redo/refactor previous hackathon assignments
-* recursion
+* Learn jQuery
+* Implement the game Snake, 2048, or a card game
+* Rewrite/redo/refactor previous hackathon assignments
+* Recursion
   - Exercise: reimplement nthFib using recursion
-* get more familiar with git
+* Get more familiar with git
+
+
+
+<--- NEED SOMETHING TO DO OR REVIEW? --->
+
+
 
 ############################
 //     MORE RESOURCES     //
 ############################
 
-* do JavaScript koans
+* Reimplement more underscore
+- all methods under Collections
+- all methods in Arrays
+- .keys (objects)
+- .values (objects)
+- .pairs (objects)
+- .invert (objects)
+- .findKey (objects)
+- .pick (objects)
+- .mapObject (objects)
+* Do JavaScript koans
 * JavaScript Is Sexy
 * JavaScript for Cats
 * Eloquent JavaScript
-* sign up for JS Daily
-* check out hacker news (news.ycombinator.com----reddit for devs)
+* Sign up for JS Daily
+* Check out hacker news (news.ycombinator.com----reddit for devs)
