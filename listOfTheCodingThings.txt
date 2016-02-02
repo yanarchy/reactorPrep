@@ -1,0 +1,150 @@
+############################
+//        GENERAL         //
+############################
+
+* Variables
+  - What are variables?
+  - How do we use them?
+  - How are they different from arguments?
+  - What are some general best practices about naming variables?
+* Expressions
+* If/Else If/Else Statements (Conditionals)
+  - What do you put inside of the parentheses?
+  - How do you use them?
+* For/For-In/While Loops
+  - Practice: nthFib
+  - What do you put inside of the parentheses?
+* Equality vs. sameness
+* Operators
+  - Logical
+  - Math
+  - etc.
+* Console/Debugging
+  - How do you debug?
+  - Where can you find/create clues?
+  - How do you use console.log to help out?
+* Documentation & Researching
+  - How do you read the documentation?
+  - How do you test what's going on?
+  - What is the best way to construct your search query for Google?
+
+############################
+//  PRIMITIVE DATA TYPES  //
+############################
+
+* booleans
+* null & undefined
+* numbers
+* strings
+
+  - What are these?
+  - What are some built-in methods these come with? How do you use them?
+
+
+############################
+//        ARRAYS          //
+############################
+
+- What are indices? What index does an array start at?
+- How do you find the last item in an array?
+- How do you retrieve information?
+- How do you store information?
+- How do you loop through these?
+- What are some built-in methods these come with? How do you use them?
+- How are arrays similar to strings? How are they different?
+
+############################
+//        OBJECTS         //
+############################
+
+- Key & value pairs--what are these?
+- How do you retrieve information?
+- How do you store information?
+- How do you loop through these?
+- What are some built-in methods these come with? How do you use them?
+- What are methods? How do you create them? How do you run them?
+- What is the difference between dot and bracket notation?
+
+############################
+//   ARRAYS & OBJECTS     //
+############################
+
+- How are these different from one another?
+- What built-in methods are available to arrays but not to objects? Vice versa.
+
+############################
+//      FUNCTIONS         //
+############################
+
+- What are functions?
+- Function definition vs. function invocation
+- Function declaration vs. function expressions / What are the different ways you can write functions?
+- How do you invoke a function?
+* Arguments
+  - What is an argument?
+  - What are some rules for arguments?
+* Global vs. local scope
+* returns vs. side-effects
+  - What are the differences?
+  - How do you use returns?
+* arguments keyword
+  - How do you use it?
+  - What form does it come in?
+* Nested functions
+
+############################
+//  MORE ADVANCED TOPICS  //
+############################
+- What is a callback? How do you use them? What are applied callbacks?
+- What's a higher order function?
+- What is closure?
+- What is a library?
+  - What is underscore?
+  - How do you use underscore methods?
+- What's the global document object? Global window object?
+- What is the global Math object? How do you use it? What're some of the methods?
+
+############################
+//      HTML/CSS          //
+############################
+
+- What is HTML? CSS?
+- How do they work with JavaScript? With each other?
+- What are selectors?
+- How do you style a page?
+- Position vs. display for CSS <-- we never really went over this
+- What is the DOM?
+- How do you talk to the DOM?
+- How do you use event handlers?
+
+############################
+//  MORE ADVANCED THINGS  //
+############################
+
+* learn jQuery
+* reimplement more underscore
+  - all methods under Collections
+  - all methods in Arrays
+  - .keys (objects)
+  - .values (objects)
+  - .pairs (objects)
+  - .invert (objects)
+  - .findKey (objects)
+  - .pick (objects)
+  - .mapObject (objects)
+* implement the game Snake, 2048, or a card game
+* rewrite/redo/refactor previous hackathon assignments
+* recursion
+  - Exercise: reimplement nthFib using recursion
+* get more familiar with git
+
+############################
+//     MORE RESOURCES     //
+############################
+
+* do JavaScript koans
+* JavaScript Is Sexy
+* JavaScript for Cats
+* Eloquent JavaScript
+* sign up for JS Daily
+* check out hacker news (news.ycombinator.com----reddit for devs)
